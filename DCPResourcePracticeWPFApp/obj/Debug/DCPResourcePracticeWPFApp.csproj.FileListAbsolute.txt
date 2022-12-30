@@ -1,0 +1,15 @@
+C:\Users\Shahadat\Desktop\DCPResourcePracticeWPFApp\DCPResourcePracticeWPFApp\bin\Debug\DCPResourcePracticeWPFApp.exe.config
+C:\Users\Shahadat\Desktop\DCPResourcePracticeWPFApp\DCPResourcePracticeWPFApp\bin\Debug\DCPResourcePracticeWPFApp.exe
+C:\Users\Shahadat\Desktop\DCPResourcePracticeWPFApp\DCPResourcePracticeWPFApp\bin\Debug\DCPResourcePracticeWPFApp.pdb
+C:\Users\Shahadat\Desktop\DCPResourcePracticeWPFApp\DCPResourcePracticeWPFApp\obj\Debug\DCPResourcePracticeWPFApp.csproj.AssemblyReference.cache
+C:\Users\Shahadat\Desktop\DCPResourcePracticeWPFApp\DCPResourcePracticeWPFApp\obj\Debug\MainWindow.g.cs
+C:\Users\Shahadat\Desktop\DCPResourcePracticeWPFApp\DCPResourcePracticeWPFApp\obj\Debug\App.g.cs
+C:\Users\Shahadat\Desktop\DCPResourcePracticeWPFApp\DCPResourcePracticeWPFApp\obj\Debug\DCPResourcePracticeWPFApp_MarkupCompile.cache
+C:\Users\Shahadat\Desktop\DCPResourcePracticeWPFApp\DCPResourcePracticeWPFApp\obj\Debug\DCPResourcePracticeWPFApp_MarkupCompile.lref
+C:\Users\Shahadat\Desktop\DCPResourcePracticeWPFApp\DCPResourcePracticeWPFApp\obj\Debug\MainWindow.baml
+C:\Users\Shahadat\Desktop\DCPResourcePracticeWPFApp\DCPResourcePracticeWPFApp\obj\Debug\DCPResourcePracticeWPFApp.g.resources
+C:\Users\Shahadat\Desktop\DCPResourcePracticeWPFApp\DCPResourcePracticeWPFApp\obj\Debug\DCPResourcePracticeWPFApp.Properties.Resources.resources
+C:\Users\Shahadat\Desktop\DCPResourcePracticeWPFApp\DCPResourcePracticeWPFApp\obj\Debug\DCPResourcePracticeWPFApp.csproj.GenerateResource.cache
+C:\Users\Shahadat\Desktop\DCPResourcePracticeWPFApp\DCPResourcePracticeWPFApp\obj\Debug\DCPResourcePracticeWPFApp.csproj.CoreCompileInputs.cache
+C:\Users\Shahadat\Desktop\DCPResourcePracticeWPFApp\DCPResourcePracticeWPFApp\obj\Debug\DCPResourcePracticeWPFApp.exe
+C:\Users\Shahadat\Desktop\DCPResourcePracticeWPFApp\DCPResourcePracticeWPFApp\obj\Debug\DCPResourcePracticeWPFApp.pdb
