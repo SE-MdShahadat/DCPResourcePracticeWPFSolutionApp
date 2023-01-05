@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFIntroductionProjectApp",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XAMLProjectApp", "XAMLProjectApp\XAMLProjectApp.csproj", "{3CB62396-456F-4A98-9953-AA99D56A4BAC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LayoutControlProjectApp", "LayoutControlProjectApp\LayoutControlProjectApp.csproj", "{F53D4E24-DCC7-409E-A660-3868C418B737}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3CB62396-456F-4A98-9953-AA99D56A4BAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CB62396-456F-4A98-9953-AA99D56A4BAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CB62396-456F-4A98-9953-AA99D56A4BAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F53D4E24-DCC7-409E-A660-3868C418B737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F53D4E24-DCC7-409E-A660-3868C418B737}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F53D4E24-DCC7-409E-A660-3868C418B737}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F53D4E24-DCC7-409E-A660-3868C418B737}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
