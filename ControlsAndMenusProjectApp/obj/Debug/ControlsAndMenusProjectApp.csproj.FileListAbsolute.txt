@@ -1,0 +1,15 @@
+C:\Users\AZG_ERP_00\Desktop\Git\DCPResourcePracticeWPFSolutionApp\ControlsAndMenusProjectApp\bin\Debug\ControlsAndMenusProjectApp.exe.config
+C:\Users\AZG_ERP_00\Desktop\Git\DCPResourcePracticeWPFSolutionApp\ControlsAndMenusProjectApp\bin\Debug\ControlsAndMenusProjectApp.exe
+C:\Users\AZG_ERP_00\Desktop\Git\DCPResourcePracticeWPFSolutionApp\ControlsAndMenusProjectApp\bin\Debug\ControlsAndMenusProjectApp.pdb
+C:\Users\AZG_ERP_00\Desktop\Git\DCPResourcePracticeWPFSolutionApp\ControlsAndMenusProjectApp\obj\Debug\ControlsAndMenusProjectApp.csproj.AssemblyReference.cache
+C:\Users\AZG_ERP_00\Desktop\Git\DCPResourcePracticeWPFSolutionApp\ControlsAndMenusProjectApp\obj\Debug\MainWindow.g.cs
+C:\Users\AZG_ERP_00\Desktop\Git\DCPResourcePracticeWPFSolutionApp\ControlsAndMenusProjectApp\obj\Debug\App.g.cs
+C:\Users\AZG_ERP_00\Desktop\Git\DCPResourcePracticeWPFSolutionApp\ControlsAndMenusProjectApp\obj\Debug\ControlsAndMenusProjectApp_MarkupCompile.cache
+C:\Users\AZG_ERP_00\Desktop\Git\DCPResourcePracticeWPFSolutionApp\ControlsAndMenusProjectApp\obj\Debug\ControlsAndMenusProjectApp_MarkupCompile.lref
+C:\Users\AZG_ERP_00\Desktop\Git\DCPResourcePracticeWPFSolutionApp\ControlsAndMenusProjectApp\obj\Debug\MainWindow.baml
+C:\Users\AZG_ERP_00\Desktop\Git\DCPResourcePracticeWPFSolutionApp\ControlsAndMenusProjectApp\obj\Debug\ControlsAndMenusProjectApp.g.resources
+C:\Users\AZG_ERP_00\Desktop\Git\DCPResourcePracticeWPFSolutionApp\ControlsAndMenusProjectApp\obj\Debug\ControlsAndMenusProjectApp.Properties.Resources.resources
+C:\Users\AZG_ERP_00\Desktop\Git\DCPResourcePracticeWPFSolutionApp\ControlsAndMenusProjectApp\obj\Debug\ControlsAndMenusProjectApp.csproj.GenerateResource.cache
+C:\Users\AZG_ERP_00\Desktop\Git\DCPResourcePracticeWPFSolutionApp\ControlsAndMenusProjectApp\obj\Debug\ControlsAndMenusProjectApp.csproj.CoreCompileInputs.cache
+C:\Users\AZG_ERP_00\Desktop\Git\DCPResourcePracticeWPFSolutionApp\ControlsAndMenusProjectApp\obj\Debug\ControlsAndMenusProjectApp.exe
+C:\Users\AZG_ERP_00\Desktop\Git\DCPResourcePracticeWPFSolutionApp\ControlsAndMenusProjectApp\obj\Debug\ControlsAndMenusProjectApp.pdb

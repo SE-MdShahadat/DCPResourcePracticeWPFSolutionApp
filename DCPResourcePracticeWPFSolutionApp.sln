@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XAMLProjectApp", "XAMLProje
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LayoutControlProjectApp", "LayoutControlProjectApp\LayoutControlProjectApp.csproj", "{F53D4E24-DCC7-409E-A660-3868C418B737}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlsAndMenusProjectApp", "ControlsAndMenusProjectApp\ControlsAndMenusProjectApp.csproj", "{006AEF20-AAA5-4CB9-9894-4DDDFB0D1FED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{F53D4E24-DCC7-409E-A660-3868C418B737}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F53D4E24-DCC7-409E-A660-3868C418B737}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F53D4E24-DCC7-409E-A660-3868C418B737}.Release|Any CPU.Build.0 = Release|Any CPU
+		{006AEF20-AAA5-4CB9-9894-4DDDFB0D1FED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{006AEF20-AAA5-4CB9-9894-4DDDFB0D1FED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{006AEF20-AAA5-4CB9-9894-4DDDFB0D1FED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{006AEF20-AAA5-4CB9-9894-4DDDFB0D1FED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
